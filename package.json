@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-package",
+  "version": "1.0.0",
+  "description": "My website for my personal programming portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshgottlieb2/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshgottlieb2/Portfolio/issues"
+  },
+  "homepage": "https://github.com/joshgottlieb2/Portfolio#readme"
+}
